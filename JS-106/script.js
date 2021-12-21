@@ -122,3 +122,4 @@ let istenmeyen = "brokoli";
 
 let filteredMenu= filterMenu(menuList,istenmeyen);
 console.log(filteredMenu);
+console.log(filteredMenu);
